@@ -28,9 +28,9 @@ Second, we already know about the major presence of Male players, but, No-male p
     
 | Gender 				|Total Users	|Purchase Count		|Average Purchase Price	 |Total Purchase Value	|Average Purchase Total per Person |
 |-----------------------|:-------------:|:-----------------:|:----------------------:|:--------------------:|:--------------------------------:|
-| Female				|81				|113				|\\$3.20					 |\\$361.94				|\\$4.47                           |
-| Male					|484			|652				|\\$3.02					 |\\$1,967.64				|\\$4.07                           |
-| Other / Non-Disclosed	|11				|15					|\\$3.35					 |\\$50.19				|\\$4.56                           |
+| Female				|81				|113				|\$3.20					 |\$361.94				|\$4.47                           |
+| Male					|484			|652				|\$3.02					 |\$1,967.64				|\$4.07                           |
+| Other / Non-Disclosed	|11				|15					|\$3.35					 |\$50.19				|\$4.56                           |
 
 And last, but not least, there is a huge concentration of players within a 15-30 years old range, which indicates a good opportunity to narrow the marketing srategy, focusing on increasing revenue.
 
